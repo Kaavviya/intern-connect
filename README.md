@@ -1,5 +1,5 @@
 # intern-connect
-Develop a comprehensive Internship Management System (IMS) catering to students 
+To develop a comprehensive Internship Management System (IMS) catering to students 
 seeking internships, allowing them to input vital details such as company name, address, 
 internship duration, mode (remote/on-site), and stipend amount. 
 
